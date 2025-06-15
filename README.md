@@ -1,0 +1,11 @@
+odev1
+![odev1](https://github.com/user-attachments/assets/0da39364-f805-4a20-8602-693462b928d2)
+
+odev2
+![odev2](https://github.com/user-attachments/assets/ac7b3335-bdf2-474a-be9f-54bccb310d38)
+
+odev3
+![odev3](https://github.com/user-attachments/assets/a85a1538-b248-462a-b1e9-e2c611a2a090)
+
+odev4
+![odev4](https://github.com/user-attachments/assets/9f753ec5-ebcd-460e-a9f8-78b864207b05)
