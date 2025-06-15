@@ -15,3 +15,6 @@ odev5
 
 odev6
 ![image](https://github.com/user-attachments/assets/f825a364-608c-4faa-9cf1-9fdeeffecf60)
+
+odev7 
+![image](https://github.com/user-attachments/assets/800c4dc2-b461-4fe3-86f6-bbebe2d3c242)
