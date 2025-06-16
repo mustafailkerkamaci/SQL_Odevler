@@ -21,5 +21,8 @@ odev7
 ====================================================
 ODEV 8 
 ![odev8_1](https://github.com/user-attachments/assets/7ce3dfcb-1d38-4bbf-a2f1-0e252ddba073)
-![odev8_1](https://github.com/user-attachments/assets/7ce3dfcb-1d38-4bbf-a2f1-0e252ddba073)
+![Odev8_2](https://github.com/user-attachments/assets/ca83b715-34a7-4c2b-8621-5161ef674e51)
+![odev8_3](https://github.com/user-attachments/assets/ebc94618-5221-41b1-b630-9ddf593b8d55)
+![odev8_4](https://github.com/user-attachments/assets/1e41929e-b78b-47f6-ae5d-e30de323fac3)
+![odev8_5](https://github.com/user-attachments/assets/8ba23b82-0f72-47c0-824c-e2224de6250b)
 
