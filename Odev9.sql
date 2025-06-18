@@ -6,3 +6,5 @@
 
 select rental.rental_id, rental.customer_id, customer.first_name, customer.last_name from rental
 inner join customer on rental.customer_id = customer.customer_id
+
+-- select kisminda tablonun sutun isiminin hangi tablodan geldigini belirtmedigim zaman output kisminda veri cikmiyordu o yuzden hangi sutun hangi tablodan alindi onu da basina eklemek zorunda kaldim.
